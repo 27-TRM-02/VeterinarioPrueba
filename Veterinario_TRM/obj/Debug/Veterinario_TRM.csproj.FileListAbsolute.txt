@@ -1,0 +1,76 @@
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Veterinario_TRM.exe.config
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Veterinario_TRM.exe
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Veterinario_TRM.pdb
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csprojAssemblyReference.cache
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.Properties.Resources.resources
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csproj.GenerateResource.cache
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csproj.CoreCompileInputs.cache
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.exe
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.pdb
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.VentaPrincipal.resources
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Google.Protobuf.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\MySql.Data.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Buffers.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Memory.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Zstandard.Net.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Google.Protobuf.pdb
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\Google.Protobuf.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\MySql.Data.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Buffers.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Memory.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.VentanaLogin.resources
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csproj.CopyComplete
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.AltaUsuario.resources
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\BCrypt.Net.dll
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\BCrypt.Net.pdb
+C:\Users\trms2\source\repos\Veterinario_TRM\Veterinario_TRM\bin\Debug\BCrypt.Net.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Veterinario_TRM.exe.config
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Veterinario_TRM.exe
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Veterinario_TRM.pdb
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\BCrypt.Net.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Google.Protobuf.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\MySql.Data.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Buffers.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Memory.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Zstandard.Net.dll
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\BCrypt.Net.pdb
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\BCrypt.Net.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Google.Protobuf.pdb
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\Google.Protobuf.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\MySql.Data.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Buffers.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Memory.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csprojAssemblyReference.cache
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.AltaUsuario.resources
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.VentanaLogin.resources
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.VentaPrincipal.resources
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.Properties.Resources.resources
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csproj.GenerateResource.cache
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csproj.CoreCompileInputs.cache
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.csproj.CopyComplete
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.exe
+C:\Users\trms2\codes\CodigoEn_Csharp\repo de VS2019\Veterinario_TRM\Veterinario_TRM\obj\Debug\Veterinario_TRM.pdb
